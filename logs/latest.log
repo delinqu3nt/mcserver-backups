@@ -849,3 +849,26 @@ java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
 [09:11:48] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
+[09:26:49] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
+[09:26:49] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[09:26:49] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[09:26:49] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[09:26:49] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
