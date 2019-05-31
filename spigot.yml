@@ -98,19 +98,19 @@ world-settings:
       other-multiplier: 0.0
     max-tnt-per-tick: 100
     growth:
-      cactus-modifier: 400
-      cane-modifier: 400
-      melon-modifier: 400
-      mushroom-modifier: 400
-      pumpkin-modifier: 400
-      sapling-modifier: 400
-      beetroot-modifier: 400
-      carrot-modifier: 400
-      potato-modifier: 400
-      wheat-modifier: 400
-      netherwart-modifier: 400
-      vine-modifier: 400
-      cocoa-modifier: 400
+      cactus-modifier: 100
+      cane-modifier: 100
+      melon-modifier: 100
+      mushroom-modifier: 100
+      pumpkin-modifier: 100
+      sapling-modifier: 100
+      beetroot-modifier: 100
+      carrot-modifier: 100
+      potato-modifier: 100
+      wheat-modifier: 100
+      netherwart-modifier: 100
+      vine-modifier: 100
+      cocoa-modifier: 100
     merge-radius:
       exp: 3.0
       item: 2.5
