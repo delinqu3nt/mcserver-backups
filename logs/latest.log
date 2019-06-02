@@ -1,1025 +1,1728 @@
-[00:13:05] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
-[00:13:05] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[00:00:26] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
+[00:00:26] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[00:13:05] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[00:00:26] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[00:13:05] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[00:00:26] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[00:13:05] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
-[00:28:06] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
-[00:28:07] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[00:00:26] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
+[00:15:27] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
+[00:15:27] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[00:28:07] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[00:15:27] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[00:28:07] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[00:15:27] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[00:28:07] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
-[00:43:08] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
-[00:43:08] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[00:15:27] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
+[00:30:28] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
+[00:30:28] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[00:43:08] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[00:30:28] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[00:43:08] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[00:30:28] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[00:43:08] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
-[00:58:09] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
-[00:58:09] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[00:30:28] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
+[00:45:29] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
+[00:45:30] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[00:58:09] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[00:45:30] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[00:58:09] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[00:45:30] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[00:58:09] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
-[01:13:10] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
-[01:13:10] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[00:45:30] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
+[01:00:31] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
+[01:00:31] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[01:13:10] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[01:00:31] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[01:13:10] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[01:00:31] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[01:13:10] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
-[01:28:12] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
-[01:28:12] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[01:00:31] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
+[01:15:32] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
+[01:15:32] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[01:28:12] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[01:15:32] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[01:28:12] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[01:15:32] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[01:28:12] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
-[01:43:13] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
-[01:43:13] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[01:15:32] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
+[01:30:33] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
+[01:30:33] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[01:43:13] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[01:30:33] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[01:43:13] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[01:30:33] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[01:43:13] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
-[01:58:14] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
-[01:58:14] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[01:30:33] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
+[01:45:35] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
+[01:45:35] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[01:58:14] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[01:45:35] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[01:58:14] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[01:45:35] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[01:58:14] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
-[02:13:16] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
-[02:13:16] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[01:45:35] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
+[02:00:36] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
+[02:00:36] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[02:13:16] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[02:00:36] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[02:13:16] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[02:00:36] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[02:13:16] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
-[02:28:17] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
-[02:28:17] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[02:00:36] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
+[02:15:37] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
+[02:15:37] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[02:28:17] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[02:15:37] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[02:28:17] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[02:15:37] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[02:28:17] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
-[02:43:18] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
-[02:43:18] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[02:15:37] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
+[02:30:38] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
+[02:30:38] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[02:43:18] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[02:30:38] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[02:43:18] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[02:30:38] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[02:43:18] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
-[02:58:19] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
-[02:58:20] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[02:30:38] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
+[02:45:40] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
+[02:45:40] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[02:58:20] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[02:45:40] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[02:58:20] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[02:45:40] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[02:58:20] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
-[03:13:21] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
-[03:13:21] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[02:45:40] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
+[03:00:41] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
+[03:00:41] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[03:13:21] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[03:00:41] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[03:13:21] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[03:00:41] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[03:13:21] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
-[03:28:22] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
-[03:28:22] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[03:00:41] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
+[03:15:42] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
+[03:15:42] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[03:28:22] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[03:15:42] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[03:28:22] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[03:15:42] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[03:28:22] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
-[03:43:23] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
-[03:43:23] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[03:15:42] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
+[03:30:43] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
+[03:30:43] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[03:43:23] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[03:30:43] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[03:43:23] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[03:30:44] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[03:43:23] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
-[03:58:25] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
-[03:58:25] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[03:30:44] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
+[03:45:45] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
+[03:45:45] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[03:58:25] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[03:45:45] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[03:58:25] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[03:45:45] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[03:58:25] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
-[04:13:26] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
-[04:13:26] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[03:45:45] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
+[04:00:46] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
+[04:00:46] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[04:13:26] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[04:00:46] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[04:13:26] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[04:00:46] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[04:13:26] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
-[04:28:27] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
-[04:28:27] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[04:00:46] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
+[04:15:47] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
+[04:15:47] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[04:28:27] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[04:15:47] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[04:28:27] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[04:15:47] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[04:28:27] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
-[04:43:28] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
-[04:43:28] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[04:15:47] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
+[04:30:48] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
+[04:30:49] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[04:43:28] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[04:30:49] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[04:43:28] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[04:30:49] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[04:43:28] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
-[04:58:30] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
-[04:58:30] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[04:30:49] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
+[04:45:50] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
+[04:45:50] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[04:58:30] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[04:45:50] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[04:58:30] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[04:45:50] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[04:58:30] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
-[05:13:31] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
-[05:13:31] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[04:45:50] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
+[05:00:51] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
+[05:00:51] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[05:13:31] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[05:00:51] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[05:13:31] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[05:00:51] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[05:13:31] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
-[05:28:32] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
-[05:28:32] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[05:00:51] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
+[05:15:52] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
+[05:15:52] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[05:28:32] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[05:15:52] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[05:28:32] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[05:15:52] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[05:28:32] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
-[05:43:34] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
-[05:43:34] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[05:15:52] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
+[05:30:54] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
+[05:30:54] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[05:43:34] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[05:30:54] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[05:43:34] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[05:30:54] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[05:43:34] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
-[05:58:35] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
-[05:58:35] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[05:30:54] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
+[05:45:55] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
+[05:45:55] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[05:58:35] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[05:45:55] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[05:58:35] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[05:45:55] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[05:58:35] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
-[06:13:36] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
-[06:13:36] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[05:45:55] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
+[06:00:56] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
+[06:00:56] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[06:13:36] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[06:00:56] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[06:13:36] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[06:00:56] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[06:13:36] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
-[06:28:37] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
-[06:28:38] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[06:00:56] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
+[06:15:57] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
+[06:15:57] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[06:28:38] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[06:15:57] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[06:28:38] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[06:15:57] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[06:28:38] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
-[06:43:39] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
-[06:43:39] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[06:15:57] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
+[06:30:59] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
+[06:30:59] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[06:43:39] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[06:30:59] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[06:43:39] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[06:30:59] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[06:43:39] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
-[06:58:40] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
-[06:58:40] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[06:30:59] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
+[06:46:00] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
+[06:46:00] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[06:58:40] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[06:46:00] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[06:58:40] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[06:46:00] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[06:58:40] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
-[07:13:41] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
-[07:13:41] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[06:46:00] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
+[07:01:01] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
+[07:01:01] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[07:13:41] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[07:01:01] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[07:13:41] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[07:01:01] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[07:13:41] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
-[07:28:43] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
-[07:28:43] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[07:01:01] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
+[07:16:03] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
+[07:16:03] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[07:28:43] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[07:16:03] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[07:28:43] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[07:16:03] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[07:28:43] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
-[07:43:44] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
-[07:43:44] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[07:16:03] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
+[07:31:04] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
+[07:31:04] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[07:43:44] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[07:31:04] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[07:43:44] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[07:31:04] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[07:43:44] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
-[07:58:45] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
-[07:58:45] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[07:31:04] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
+[07:46:05] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
+[07:46:05] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[07:58:45] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[07:46:05] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[07:58:45] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[07:46:05] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[07:58:45] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
-[08:13:46] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
-[08:13:47] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[07:46:05] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
+[08:01:06] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
+[08:01:06] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[08:13:47] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[08:01:06] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[08:13:47] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[08:01:06] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[08:13:47] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
-[08:28:48] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
-[08:28:48] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[08:01:06] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
+[08:16:08] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
+[08:16:08] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[08:28:48] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[08:16:08] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[08:28:48] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[08:16:08] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[08:28:48] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
-[08:43:49] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
-[08:43:49] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[08:16:08] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
+[08:31:09] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
+[08:31:09] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[08:43:49] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[08:31:09] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[08:43:49] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[08:31:09] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[08:43:49] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
-[08:58:50] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
-[08:58:50] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[08:31:09] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
+[08:46:10] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
+[08:46:10] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[08:58:50] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[08:46:10] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[08:58:50] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[08:46:10] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[08:58:50] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
-[09:13:52] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
-[09:13:52] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[08:46:10] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
+[09:01:11] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
+[09:01:12] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[09:13:52] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[09:01:12] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[09:13:52] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[09:01:12] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[09:13:52] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
-[09:28:53] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
-[09:28:53] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[09:01:12] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
+[09:08:40] [User Authenticator #38/INFO]: UUID of player creepa_oh_man is eaa81764-0841-402d-9f37-85e1a169d25d
+[09:08:42] [Server thread/INFO]: creepa_oh_man[/76.167.207.44:54034] logged in with entity id 266103 at ([world]126.73986203331938, 62.0, -924.5154302823242)
+[09:10:31] [Server thread/INFO]: Enough players are sleeping, waking everybody up!
+[09:15:12] [Server thread/WARN]: creepa_oh_man moved wrongly!
+[09:16:13] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
+[09:16:13] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[09:28:53] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[09:16:13] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[09:28:53] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[09:16:13] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[09:28:53] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
-[09:43:54] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
-[09:43:54] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[09:16:13] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
+[09:21:09] [Server thread/INFO]: creepa_oh_man issued server command: /give creepa_oh_man minecraft:redstone_torch
+[09:21:09] [Server thread/INFO]: [creepa_oh_man: Gave 1 [Redstone Torch] to creepa_oh_man]
+[09:24:39] [Server thread/INFO]: Enough players are sleeping, waking everybody up!
+[09:25:24] [Server thread/INFO]: creepa_oh_man issued server command: /gamemode spectator
+[09:25:24] [Server thread/INFO]: [creepa_oh_man: Set own game mode to Spectator Mode]
+[09:25:34] [Server thread/INFO]: creepa_oh_man issued server command: /gamemode survival
+[09:25:34] [Server thread/INFO]: [creepa_oh_man: Set own game mode to Survival Mode]
+[09:26:04] [Server thread/INFO]: creepa_oh_man issued server command: /give creepa_oh_man minecraft:gunpowder 23
+[09:26:04] [Server thread/INFO]: [creepa_oh_man: Gave 23 [Gunpowder] to creepa_oh_man]
+[09:26:45] [Server thread/INFO]: creepa_oh_man issued server command: /give creepa_oh_man paper 300
+[09:26:45] [Server thread/INFO]: [creepa_oh_man: Gave 300 [Paper] to creepa_oh_man]
+[09:31:14] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
+[09:31:15] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[09:43:54] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[09:31:15] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[09:43:54] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[09:31:15] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[09:43:54] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
-[09:58:55] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
-[09:58:56] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[09:31:15] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
+[09:34:59] [Server thread/INFO]: creepa_oh_man issued server command: /gamemode spectator
+[09:34:59] [Server thread/INFO]: [creepa_oh_man: Set own game mode to Spectator Mode]
+[09:35:08] [Server thread/INFO]: creepa_oh_man issued server command: /gamemode survival
+[09:35:08] [Server thread/INFO]: [creepa_oh_man: Set own game mode to Survival Mode]
+[09:38:55] [Server thread/INFO]: creepa_oh_man issued server command: /gamemode spectator
+[09:38:55] [Server thread/INFO]: [creepa_oh_man: Set own game mode to Spectator Mode]
+[09:39:04] [Server thread/INFO]: creepa_oh_man issued server command: /gamemode survival
+[09:39:04] [Server thread/INFO]: [creepa_oh_man: Set own game mode to Survival Mode]
+[09:39:16] [Server thread/INFO]: creepa_oh_man issued server command: /give creepa_oh_man gold_ore 128
+[09:39:16] [Server thread/INFO]: [creepa_oh_man: Gave 128 [Gold Ore] to creepa_oh_man]
+[09:39:24] [Server thread/INFO]: creepa_oh_man issued server command: /gamemode spectator
+[09:39:24] [Server thread/INFO]: [creepa_oh_man: Set own game mode to Spectator Mode]
+[09:39:48] [Server thread/INFO]: creepa_oh_man issued server command: /gamemode survival
+[09:39:48] [Server thread/INFO]: [creepa_oh_man: Set own game mode to Survival Mode]
+[09:40:03] [Server thread/INFO]: Enough players are sleeping, waking everybody up!
+[09:46:16] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
+[09:46:16] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[09:58:56] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[09:46:16] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[09:58:56] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[09:46:16] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[09:58:56] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
-[10:13:14] [User Authenticator #27/INFO]: UUID of player creepa_oh_man is eaa81764-0841-402d-9f37-85e1a169d25d
-[10:13:17] [Server thread/INFO]: creepa_oh_man[/76.176.25.228:59815] logged in with entity id 149289 at ([world]140.78885353720128, 59.0, -920.1859856743607)
-[10:13:57] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
-[10:13:57] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[09:46:16] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
+[09:52:18] [Server thread/INFO]: creepa_oh_man issued server command: /Ping
+[09:52:27] [Server thread/INFO]: creepa_oh_man issued server command: /ping
+[09:52:33] [Server thread/INFO]: creepa_oh_man issued server command: /ping
+[09:52:40] [Server thread/INFO]: creepa_oh_man issued server command: /ping
+[09:52:42] [Server thread/INFO]: creepa_oh_man issued server command: /ping
+[09:52:44] [Server thread/INFO]: creepa_oh_man issued server command: /ping
+[09:52:45] [Server thread/INFO]: creepa_oh_man issued server command: /ping
+[09:52:45] [Server thread/INFO]: creepa_oh_man issued server command: /ping
+[09:52:45] [Server thread/INFO]: creepa_oh_man issued server command: /ping
+[09:52:46] [Server thread/INFO]: creepa_oh_man issued server command: /ping
+[09:52:46] [Server thread/INFO]: creepa_oh_man issued server command: /ping
+[09:52:46] [Server thread/INFO]: creepa_oh_man issued server command: /ping
+[09:52:46] [Server thread/INFO]: creepa_oh_man issued server command: /ping
+[09:52:47] [Server thread/INFO]: creepa_oh_man issued server command: /ping
+[09:52:47] [Server thread/INFO]: creepa_oh_man issued server command: /ping
+[09:52:47] [Server thread/INFO]: creepa_oh_man issued server command: /ping
+[09:52:47] [Server thread/INFO]: creepa_oh_man issued server command: /ping
+[09:52:48] [Server thread/INFO]: creepa_oh_man issued server command: /ping
+[09:52:48] [Server thread/INFO]: creepa_oh_man issued server command: /ping
+[09:52:49] [Server thread/INFO]: creepa_oh_man issued server command: /ping
+[09:52:54] [Server thread/INFO]: creepa_oh_man issued server command: /ping
+[09:52:56] [Server thread/INFO]: creepa_oh_man issued server command: /ping
+[09:52:57] [Server thread/INFO]: creepa_oh_man issued server command: /ping
+[09:52:58] [Server thread/INFO]: creepa_oh_man issued server command: /ping
+[09:53:24] [Server thread/INFO]: creepa_oh_man issued server command: /ping
+[09:53:27] [Server thread/INFO]: creepa_oh_man lost connection: Disconnected
+[09:53:27] [Server thread/INFO]: creepa_oh_man left the game
+[10:01:18] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
+[10:01:18] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[10:13:57] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[10:01:18] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[10:13:57] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[10:01:18] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[10:13:57] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
-[10:14:56] [Server thread/INFO]: creepa_oh_man lost connection: Disconnected
-[10:14:56] [Server thread/INFO]: creepa_oh_man left the game
-[10:15:18] [User Authenticator #28/INFO]: UUID of player creepa_oh_man is eaa81764-0841-402d-9f37-85e1a169d25d
-[10:15:21] [Server thread/INFO]: creepa_oh_man[/76.176.25.228:60357] logged in with entity id 150315 at ([world]129.15728191182563, 65.0, -886.2813110749466)
-[10:16:56] [Server thread/INFO]: creepa_oh_man lost connection: Disconnected
-[10:16:56] [Server thread/INFO]: creepa_oh_man left the game
-[10:17:18] [User Authenticator #29/INFO]: UUID of player creepa_oh_man is eaa81764-0841-402d-9f37-85e1a169d25d
-[10:17:21] [Server thread/INFO]: creepa_oh_man[/76.176.25.228:60883] logged in with entity id 151192 at ([world]117.36983511090423, 67.0, -926.2962266728342)
-[10:17:31] [Server thread/INFO]: Enough players are sleeping, waking everybody up!
-[10:23:04] [Server thread/INFO]: creepa_oh_man lost connection: Disconnected
-[10:23:04] [Server thread/INFO]: creepa_oh_man left the game
-[10:29:01] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
-[10:29:01] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[10:01:18] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
+[10:16:19] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
+[10:16:19] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[10:29:01] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[10:16:19] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[10:29:01] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[10:16:19] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[10:29:01] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
-[10:44:03] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
-[10:44:03] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[10:16:19] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
+[10:31:20] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
+[10:31:20] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[10:44:03] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[10:31:20] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[10:44:03] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[10:31:20] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[10:44:03] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
-[10:59:04] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
-[10:59:04] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[10:31:20] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
+[10:46:21] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
+[10:46:21] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[10:59:04] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[10:46:21] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[10:59:04] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+[10:46:21] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
 java.lang.RuntimeException: Can't find method saveLevel with params length 0
 	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
 	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
 	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
-[10:59:04] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
+[10:46:21] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
+[11:01:23] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
+[11:01:23] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[11:01:23] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[11:01:23] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[11:01:23] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
+[11:14:32] [User Authenticator #39/INFO]: UUID of player creepa_oh_man is eaa81764-0841-402d-9f37-85e1a169d25d
+[11:14:35] [Server thread/INFO]: creepa_oh_man[/76.167.207.44:57902] logged in with entity id 283526 at ([world]124.0704826556939, 68.0, -914.0076256134645)
+[11:15:08] [Server thread/INFO]: Enough players are sleeping, waking everybody up!
+[11:15:48] [Server thread/INFO]: creepa_oh_man issued server command: /ping
+[11:16:24] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
+[11:16:25] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[11:16:25] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[11:16:25] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[11:16:25] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
+[11:16:32] [Server thread/INFO]: creepa_oh_man lost connection: Disconnected
+[11:16:32] [Server thread/INFO]: creepa_oh_man left the game
+[11:31:26] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
+[11:31:26] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[11:31:26] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[11:31:26] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[11:31:26] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
+[11:46:27] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
+[11:46:27] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[11:46:27] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[11:46:27] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[11:46:27] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
+[12:01:28] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
+[12:01:28] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[12:01:28] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[12:01:28] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[12:01:28] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
+[12:16:30] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
+[12:16:30] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[12:16:30] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[12:16:30] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[12:16:30] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
+[12:31:31] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
+[12:31:31] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[12:31:31] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[12:31:31] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[12:31:31] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
+[12:46:32] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
+[12:46:32] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[12:46:32] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[12:46:32] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[12:46:32] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
+[13:01:33] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
+[13:01:34] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[13:01:34] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[13:01:34] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[13:01:34] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
+[13:06:38] [User Authenticator #40/INFO]: UUID of player creepa_oh_man is eaa81764-0841-402d-9f37-85e1a169d25d
+[13:06:40] [Server thread/INFO]: creepa_oh_man[/76.167.207.44:61329] logged in with entity id 284707 at ([world]95.13906768390541, 65.0, -914.3000000119209)
+[13:07:46] [Server thread/INFO]: creepa_oh_man lost connection: Disconnected
+[13:07:46] [Server thread/INFO]: creepa_oh_man left the game
+[13:12:40] [User Authenticator #41/INFO]: UUID of player creepa_oh_man is eaa81764-0841-402d-9f37-85e1a169d25d
+[13:12:42] [Server thread/INFO]: creepa_oh_man[/76.167.207.44:61581] logged in with entity id 285674 at ([world]120.39468569677838, 67.0, -923.0077286202279)
+[13:13:17] [Server thread/INFO]: creepa_oh_man lost connection: Disconnected
+[13:13:17] [Server thread/INFO]: creepa_oh_man left the game
+[13:14:40] [User Authenticator #42/INFO]: UUID of player creepa_oh_man is eaa81764-0841-402d-9f37-85e1a169d25d
+[13:14:41] [Server thread/INFO]: creepa_oh_man[/76.167.207.44:61648] logged in with entity id 286113 at ([world]119.2603762775191, 71.0, -933.8414284523479)
+[13:16:35] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
+[13:16:35] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[13:16:35] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[13:16:35] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[13:16:35] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
+[13:17:19] [Server thread/INFO]: creepa_oh_man lost connection: Disconnected
+[13:17:19] [Server thread/INFO]: creepa_oh_man left the game
+[13:18:38] [User Authenticator #43/INFO]: UUID of player creepa_oh_man is eaa81764-0841-402d-9f37-85e1a169d25d
+[13:18:40] [Server thread/INFO]: creepa_oh_man[/76.167.207.44:61751] logged in with entity id 288897 at ([world]121.72647547339366, 69.0, -932.6643067577861)
+[13:22:28] [Server thread/INFO]: creepa_oh_man issued server command: /give creepa_oh_man minecraft:quartz_block 4
+[13:22:28] [Server thread/INFO]: [creepa_oh_man: Gave 4 [Block of Quartz] to creepa_oh_man]
+[13:24:43] [Server thread/INFO]: creepa_oh_man issued server command: /ping
+[13:29:46] [Server thread/INFO]: Enough players are sleeping, waking everybody up!
+[13:31:36] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
+[13:31:37] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[13:31:37] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[13:31:37] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[13:31:37] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
+[13:33:45] [Server thread/INFO]: creepa_oh_man lost connection: Disconnected
+[13:33:45] [Server thread/INFO]: creepa_oh_man left the game
+[13:46:38] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
+[13:46:38] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[13:46:38] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[13:46:38] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[13:46:38] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
+[13:54:02] [User Authenticator #44/INFO]: UUID of player Theian525 is 012a2f4c-2aa4-4188-acb2-b02b1c974af3
+[13:54:06] [Server thread/INFO]: Theian525[/76.172.77.80:55695] logged in with entity id 294347 at ([world]34.56074014303479, 65.0, -889.8057889041079)
+[13:54:45] [User Authenticator #45/INFO]: UUID of player creepa_oh_man is eaa81764-0841-402d-9f37-85e1a169d25d
+[13:54:46] [Server thread/INFO]: creepa_oh_man[/76.167.207.44:62782] logged in with entity id 295334 at ([world]133.3109506939931, 62.0, -925.8459424933731)
+[13:54:58] [Async Chat Thread - #3/INFO]: <creepa_oh_man> FUCK YOU SAY TO ME YOU LITTLE SHIT
+[14:00:37] [Server thread/INFO]: Theian525 experienced kinetic energy whilst trying to escape creepa_oh_man
+[14:00:40] [Server thread/INFO]: creepa_oh_man issued server command: /give creepa_oh_man stone 2
+[14:00:40] [Server thread/INFO]: [creepa_oh_man: Gave 2 [Stone] to creepa_oh_man]
+[14:00:46] [Server thread/INFO]: creepa_oh_man issued server command: /give creepa_oh_man stone 1
+[14:00:46] [Server thread/INFO]: [creepa_oh_man: Gave 1 [Stone] to creepa_oh_man]
+[14:01:29] [Server thread/INFO]: creepa_oh_man issued server command: /give creepa_oh_man minecraft:diamond_pickaxe
+[14:01:29] [Server thread/INFO]: [creepa_oh_man: Gave 1 [Diamond Pickaxe] to creepa_oh_man]
+[14:01:39] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
+[14:01:40] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[14:01:40] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[14:01:40] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[14:01:40] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
+[14:01:54] [Server thread/INFO]: creepa_oh_man issued server command: /enchant creepa_oh_man minecraft:unbreaking 3
+[14:01:54] [Server thread/INFO]: [creepa_oh_man: Applied enchantment Unbreaking III to creepa_oh_man's item]
+[14:01:58] [Server thread/INFO]: creepa_oh_man issued server command: /enchant creepa_oh_man minecraft:mending
+[14:01:58] [Server thread/INFO]: [creepa_oh_man: Applied enchantment Mending to creepa_oh_man's item]
+[14:02:03] [Server thread/INFO]: creepa_oh_man issued server command: /enchant creepa_oh_man minecraft:efficiency 5
+[14:02:03] [Server thread/INFO]: [creepa_oh_man: Applied enchantment Efficiency V to creepa_oh_man's item]
+[14:02:07] [Server thread/INFO]: creepa_oh_man issued server command: /enchant creepa_oh_man minecraft:silk_touch
+[14:02:07] [Server thread/INFO]: [creepa_oh_man: Applied enchantment Silk Touch to creepa_oh_man's item]
+[14:03:44] [Server thread/INFO]: Enough players are sleeping, waking everybody up!
+[14:07:00] [Server thread/INFO]: creepa_oh_man issued server command: /tpa th
+[14:07:02] [Server thread/INFO]: Theian525 issued server command: /tpaccept
+[14:14:16] [Server thread/INFO]: creepa_oh_man issued server command: /seed
+[14:16:41] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
+[14:16:42] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[14:16:42] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[14:16:42] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[14:16:42] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
+[14:17:16] [Server thread/INFO]: creepa_oh_man issued server command: /gamerule reducedDebugInfo false
+[14:17:16] [Server thread/INFO]: [creepa_oh_man: Gamerule reducedDebugInfo is now set to: false]
+[14:17:21] [Server thread/INFO]: creepa_oh_man issued server command: /gamerule reducedDebugInfo true
+[14:17:21] [Server thread/INFO]: [creepa_oh_man: Gamerule reducedDebugInfo is now set to: true]
+[14:17:25] [Server thread/INFO]: creepa_oh_man issued server command: /gamerule reducedDebugInfo false
+[14:17:25] [Server thread/INFO]: [creepa_oh_man: Gamerule reducedDebugInfo is now set to: false]
+[14:28:34] [Server thread/INFO]: Theian525 issued server command: /tpa creepa_oh_man
+[14:28:35] [Server thread/INFO]: creepa_oh_man issued server command: /tpaccept
+[14:31:43] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
+[14:31:44] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[14:31:44] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[14:31:44] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[14:31:44] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
+[14:42:52] [Server thread/INFO]: Enough players are sleeping, waking everybody up!
+[14:43:40] [Server thread/INFO]: creepa_oh_man issued server command: /tps
+[14:46:45] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
+[14:46:46] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[14:46:46] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[14:46:46] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[14:46:46] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
+[14:47:26] [Server thread/INFO]: Theian525 issued server command: /tpa creepa_oh_man
+[14:48:31] [Server thread/INFO]: creepa_oh_man issued server command: /tpaccept
+[14:48:33] [Server thread/INFO]: creepa_oh_man issued server command: /tpaccept
+[14:48:34] [Server thread/INFO]: creepa_oh_man issued server command: /tpaccept
+[14:48:35] [Server thread/INFO]: creepa_oh_man issued server command: /tpaccept
+[14:48:35] [Server thread/INFO]: creepa_oh_man issued server command: /tpaccept
+[14:48:35] [Server thread/INFO]: creepa_oh_man issued server command: /tpaccept
+[14:48:35] [Server thread/INFO]: creepa_oh_man issued server command: /tpaccept
+[14:54:49] [Server thread/INFO]: Enough players are sleeping, waking everybody up!
+[14:55:52] [Server thread/INFO]: creepa_oh_man issued server command: /kill @e[type=item]
+[14:55:52] [Server thread/INFO]: [creepa_oh_man: Killed 45 entities]
+[14:57:03] [Server thread/INFO]: creepa_oh_man issued server command: /kill @e[type=item]
+[14:57:03] [Server thread/INFO]: [creepa_oh_man: Killed 23 entities]
+[14:57:09] [Server thread/INFO]: creepa_oh_man issued server command: /kill @e[type=item]
+[14:57:09] [Server thread/INFO]: [creepa_oh_man: Killed 2 entities]
+[14:59:00] [Server thread/INFO]: creepa_oh_man issued server command: /kill @e[type=item]
+[14:59:00] [Server thread/INFO]: [creepa_oh_man: Killed 21 entities]
+[15:00:29] [Server thread/INFO]: creepa_oh_man issued server command: /kill @e[type=item]
+[15:00:29] [Server thread/INFO]: [creepa_oh_man: Killed 30 entities]
+[15:01:47] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
+[15:01:47] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[15:01:47] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[15:01:47] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[15:01:47] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
+[15:04:17] [Server thread/INFO]: creepa_oh_man issued server command: /kill @e[type=item]
+[15:04:17] [Server thread/INFO]: [creepa_oh_man: Killed 45 entities]
+[15:06:51] [Server thread/INFO]: creepa_oh_man issued server command: /kill @e[type=item]
+[15:06:51] [Server thread/INFO]: [creepa_oh_man: Killed 21 entities]
+[15:10:01] [Server thread/WARN]: creepa_oh_man moved too quickly! -0.33203760181498865,-22.034461764326146,-2.748107180669308
+[15:11:24] [Server thread/INFO]: creepa_oh_man issued server command: /kill @e[type=item]
+[15:11:24] [Server thread/INFO]: [creepa_oh_man: Killed 15 entities]
+[15:11:49] [Server thread/INFO]: creepa_oh_man issued server command: /kill @e[type=item]
+[15:11:49] [Server thread/INFO]: [creepa_oh_man: Killed 30 entities]
+[15:14:03] [Server thread/INFO]: creepa_oh_man issued server command: /gamemode spectator
+[15:14:03] [Server thread/INFO]: [creepa_oh_man: Set own game mode to Spectator Mode]
+[15:14:17] [Server thread/INFO]: creepa_oh_man issued server command: /summon minecraft:slime
+[15:14:17] [Server thread/INFO]: [creepa_oh_man: Summoned new Slime]
+[15:14:19] [Server thread/INFO]: creepa_oh_man issued server command: /summon minecraft:slime
+[15:14:19] [Server thread/INFO]: [creepa_oh_man: Summoned new Slime]
+[15:14:35] [Server thread/INFO]: creepa_oh_man issued server command: /gamemode survival
+[15:14:35] [Server thread/INFO]: [creepa_oh_man: Set own game mode to Survival Mode]
+[15:15:31] [Server thread/INFO]: creepa_oh_man issued server command: /ping
+[15:16:48] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
+[15:16:49] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[15:16:49] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[15:16:49] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[15:16:49] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
+[15:21:59] [Server thread/INFO]: creepa_oh_man issued server command: /ping
+[15:22:14] [Server thread/INFO]: creepa_oh_man issued server command: /playsound minecraft:ambient.cave ambient Theian525
+[15:22:20] [Server thread/INFO]: creepa_oh_man issued server command: /playsound minecraft:ambient.cave ambient Theian525 ~ ~ ~
+[15:22:45] [Server thread/INFO]: creepa_oh_man issued server command: /playsound minecraft:ambient.cave ambient Theian525 35 65 -880
+[15:22:45] [Server thread/INFO]: [creepa_oh_man: Played sound minecraft:ambient.cave to Theian525]
+[15:24:57] [Server thread/INFO]: creepa_oh_man issued server command: /playsound minecraft:entity.creeper.primed hostile Theian525 35 65 -880
+[15:24:57] [Server thread/INFO]: [creepa_oh_man: Played sound minecraft:entity.creeper.primed to Theian525]
+[15:25:36] [Server thread/INFO]: creepa_oh_man issued server command: /playsound minecraft:entity.creeper.primed hostile creepa_oh_man ~ ~ ~
+[15:25:36] [Server thread/INFO]: [creepa_oh_man: Played sound minecraft:entity.creeper.primed to creepa_oh_man]
+[15:28:58] [Server thread/INFO]: creepa_oh_man issued server command: /playsound minecraft:entity.creeper.primed hostile Theian525 35 65 -880
+[15:29:04] [Server thread/INFO]: creepa_oh_man issued server command: /playsound minecraft:entity.creeper.primed hostile Theian525 35 65 -880
+[15:31:50] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
+[15:31:51] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[15:31:51] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[15:31:51] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[15:31:51] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
+[15:37:14] [Server thread/INFO]: creepa_oh_man lost connection: Disconnected
+[15:37:14] [Server thread/INFO]: creepa_oh_man left the game
+[15:37:18] [User Authenticator #46/INFO]: UUID of player creepa_oh_man is eaa81764-0841-402d-9f37-85e1a169d25d
+[15:37:18] [Server thread/INFO]: creepa_oh_man[/76.167.207.44:59429] logged in with entity id 335745 at ([world]117.42210530670921, 66.0, -890.6355899396411)
+[15:39:53] [Server thread/INFO]: creepa_oh_man issued server command: /playsound minecraft:entity.creeper.primed hostile Theian525
+[15:40:00] [Server thread/INFO]: creepa_oh_man issued server command: /playsound minecraft:entity.creeper.primed hostile Theian525
+[15:40:00] [Server thread/INFO]: [creepa_oh_man: Played sound minecraft:entity.creeper.primed to Theian525]
+[15:40:04] [Server thread/INFO]: creepa_oh_man issued server command: /playsound minecraft:entity.creeper.primed hostile Theian525
+[15:40:04] [Server thread/INFO]: [creepa_oh_man: Played sound minecraft:entity.creeper.primed to Theian525]
+[15:42:42] [Server thread/INFO]: creepa_oh_man issued server command: /give creepa_oh_man minecraft:detector_rail
+[15:42:42] [Server thread/INFO]: [creepa_oh_man: Gave 1 [Detector Rail] to creepa_oh_man]
+[15:42:48] [Server thread/INFO]: creepa_oh_man issued server command: /give creepa_oh_man minecraft:rail 3
+[15:42:48] [Server thread/INFO]: [creepa_oh_man: Gave 3 [Rail] to creepa_oh_man]
+[15:42:52] [Server thread/INFO]: creepa_oh_man issued server command: /give creepa_oh_man minecraft:powered_rail
+[15:42:52] [Server thread/INFO]: [creepa_oh_man: Gave 1 [Powered Rail] to creepa_oh_man]
+[15:42:56] [Server thread/INFO]: creepa_oh_man issued server command: /give creepa_oh_man minecraft:cactus 2
+[15:42:56] [Server thread/INFO]: [creepa_oh_man: Gave 2 [Cactus] to creepa_oh_man]
+[15:42:59] [Server thread/INFO]: creepa_oh_man issued server command: /give creepa_oh_man minecraft:sand 2
+[15:42:59] [Server thread/INFO]: [creepa_oh_man: Gave 2 [Sand] to creepa_oh_man]
+[15:43:05] [Server thread/INFO]: creepa_oh_man issued server command: /give creepa_oh_man minecraft:repeater 2
+[15:43:05] [Server thread/INFO]: [creepa_oh_man: Gave 2 [Redstone Repeater] to creepa_oh_man]
+[15:43:21] [Server thread/INFO]: creepa_oh_man issued server command: /give creepa_oh_man minecraft:redstone 4
+[15:43:21] [Server thread/INFO]: [creepa_oh_man: Gave 4 [Redstone Dust] to creepa_oh_man]
+[15:43:25] [Server thread/INFO]: creepa_oh_man issued server command: /give creepa_oh_man minecraft:piston
+[15:43:25] [Server thread/INFO]: [creepa_oh_man: Gave 1 [Piston] to creepa_oh_man]
+[15:43:57] [Server thread/INFO]: creepa_oh_man issued server command: /give creepa_oh_man hopper
+[15:43:57] [Server thread/INFO]: [creepa_oh_man: Gave 1 [Hopper] to creepa_oh_man]
+[15:44:27] [Server thread/INFO]: creepa_oh_man issued server command: /give creepa_oh_man minecraft:shulker_box
+[15:44:27] [Server thread/INFO]: [creepa_oh_man: Gave 1 [Shulker Box] to creepa_oh_man]
+[15:44:42] [Server thread/INFO]: creepa_oh_man issued server command: /give creepa_oh_man minecraft:chest_minecart
+[15:44:42] [Server thread/INFO]: [creepa_oh_man: Gave 1 [Minecart with Chest] to creepa_oh_man]
+[15:46:53] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
+[15:46:54] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[15:46:54] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[15:46:54] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[15:46:54] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
+[15:47:17] [Server thread/INFO]: creepa_oh_man was pricked to death
+[15:48:12] [Server thread/INFO]: Enough players are sleeping, waking everybody up!
+[15:55:45] [Server thread/INFO]: creepa_oh_man issued server command: /give creepa_oh_man minecraft:white_concrete_powder 200
+[15:55:46] [Server thread/INFO]: [creepa_oh_man: Gave 200 [White Concrete Powder] to creepa_oh_man]
+[16:01:55] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
+[16:01:56] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[16:01:56] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[16:01:56] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[16:01:56] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
+[16:04:15] [Server thread/INFO]: Theian525 was slain by Phantom
+[16:05:00] [Server thread/INFO]: Enough players are sleeping, waking everybody up!
+[16:05:19] [Server thread/INFO]: creepa_oh_man issued server command: /give creepa_oh_man minecraft:white_concrete 4
+[16:05:19] [Server thread/INFO]: [creepa_oh_man: Gave 4 [White Concrete] to creepa_oh_man]
+[16:05:48] [Async Chat Thread - #4/INFO]: <creepa_oh_man> bruh moment, ian thinks im hacking because he is a fucking faggot
+[16:09:30] [Server thread/INFO]: Theian525 was slain by creepa_oh_man using [Lemons]
+[16:09:43] [Server thread/INFO]: Theian525 issued server command: /tpa creepa_oh_man
+[16:09:47] [Server thread/INFO]: creepa_oh_man issued server command: /tpaccept
+[16:10:10] [Async Chat Thread - #5/INFO]: <creepa_oh_man> FUCK YOU SAY TO ME YOU LITTLE SHIT
+[16:12:57] [Server thread/WARN]: Theian525 moved wrongly!
+[16:16:57] [AutoSaveWorld AutoSaveThread/INFO]: AutoSaving
+[16:16:58] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[16:16:58] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[16:16:58] [AutoSaveWorld AutoSaveThread/ERROR]: [AutoSaveWorld] Could not dump RegionFileCache
+java.lang.RuntimeException: Can't find method saveLevel with params length 0
+	at autosaveworld.utils.ReflectionUtils.getMethod(ReflectionUtils.java:49) ~[AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.dumpRegionCache(AutoSaveThread.java:135) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.performSave(AutoSaveThread.java:122) [AutoSaveWorld.jar:?]
+	at autosaveworld.features.save.AutoSaveThread.doTask(AutoSaveThread.java:70) [AutoSaveWorld.jar:?]
+	at autosaveworld.utils.Threads$IntervalTaskThread.run(Threads.java:103) [AutoSaveWorld.jar:?]
+[16:16:58] [AutoSaveWorld AutoSaveThread/INFO]: AutoSave Complete
