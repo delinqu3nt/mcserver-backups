@@ -1,37 +1,5 @@
 [
   {
-    "uuid": "255e2d1a-e509-4d5a-8a3d-eec93d2b8067",
-    "name": "Epsilon2565",
-    "created": "2019-05-19 17:18:57 -0700",
-    "source": "creepa_oh_man",
-    "expires": "forever",
-    "reason": "gay"
-  },
-  {
-    "uuid": "3b88fe3a-08b3-4fc8-bcff-f6a82f3965cb",
-    "name": "NinjaSkwad",
-    "created": "2019-04-18 21:10:44 -0700",
-    "source": "creepa_oh_man",
-    "expires": "forever",
-    "reason": "Banned by an operator."
-  },
-  {
-    "uuid": "587f6f2c-3a6f-440c-a0c9-eb54fe579266",
-    "name": "LEG123321",
-    "created": "2019-04-19 15:11:56 -0700",
-    "source": "creepa_oh_man",
-    "expires": "forever",
-    "reason": "Banned by an operator."
-  },
-  {
-    "uuid": "d091e9cc-1843-468e-93f6-49d29eab3e88",
-    "name": "ChipsDoFly",
-    "created": "2019-04-24 16:18:05 -0700",
-    "source": "creepa_oh_man",
-    "expires": "forever",
-    "reason": "Banned by an operator."
-  },
-  {
     "uuid": "c0cef520-43d1-4089-a08f-1de46741b7f1",
     "name": "xNinjask",
     "created": "2019-04-24 21:59:15 -0700",
@@ -40,25 +8,9 @@
     "reason": "Banned by an operator."
   },
   {
-    "uuid": "644f46f1-6b7b-4520-8499-5661af773f15",
-    "name": "Montreux",
-    "created": "2019-04-18 21:05:02 -0700",
-    "source": "creepa_oh_man",
-    "expires": "forever",
-    "reason": "Banned by an operator."
-  },
-  {
     "uuid": "7f1330bc-e8ef-4f3f-ba04-232b95b49399",
     "name": "SarahTD",
     "created": "2019-04-18 21:08:03 -0700",
-    "source": "creepa_oh_man",
-    "expires": "forever",
-    "reason": "Banned by an operator."
-  },
-  {
-    "uuid": "59a1dda3-3796-4654-8589-18b6ee42ff9e",
-    "name": "Rexadore",
-    "created": "2019-04-18 22:07:32 -0700",
     "source": "creepa_oh_man",
     "expires": "forever",
     "reason": "Banned by an operator."
